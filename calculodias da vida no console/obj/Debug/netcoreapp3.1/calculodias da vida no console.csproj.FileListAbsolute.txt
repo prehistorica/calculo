@@ -1,0 +1,13 @@
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\bin\Debug\netcoreapp3.1\calculodias da vida no console.exe
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\bin\Debug\netcoreapp3.1\calculodias da vida no console.deps.json
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\bin\Debug\netcoreapp3.1\calculodias da vida no console.runtimeconfig.json
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\bin\Debug\netcoreapp3.1\calculodias da vida no console.runtimeconfig.dev.json
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\bin\Debug\netcoreapp3.1\calculodias da vida no console.dll
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\bin\Debug\netcoreapp3.1\calculodias da vida no console.pdb
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\obj\Debug\netcoreapp3.1\calculodias da vida no console.csprojAssemblyReference.cache
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\obj\Debug\netcoreapp3.1\calculodias da vida no console.AssemblyInfoInputs.cache
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\obj\Debug\netcoreapp3.1\calculodias da vida no console.AssemblyInfo.cs
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\obj\Debug\netcoreapp3.1\calculodias da vida no console.csproj.CoreCompileInputs.cache
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\obj\Debug\netcoreapp3.1\calculodias da vida no console.dll
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\obj\Debug\netcoreapp3.1\calculodias da vida no console.pdb
+D:\Visual Studio\calculodias da vida no console\calculodias da vida no console\obj\Debug\netcoreapp3.1\calculodias da vida no console.genruntimeconfig.cache
